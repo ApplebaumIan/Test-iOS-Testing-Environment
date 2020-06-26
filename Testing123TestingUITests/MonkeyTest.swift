@@ -50,6 +50,5 @@ class MonkeyTest: XCTestCase {
 				// Run the monkey test indefinitely.
 			monkey.monkeyAround(forDuration: 100)
 	}
-	
 
 }

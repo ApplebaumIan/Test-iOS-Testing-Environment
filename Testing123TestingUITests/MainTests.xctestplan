@@ -1,0 +1,33 @@
+{
+  "configurations" : [
+    {
+      "id" : "96FB314E-7D93-4A26-9777-6A9DBE129563",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Testing123Testing.xcodeproj",
+        "identifier" : "67F2D46024A531A500157F9F",
+        "name" : "Testing123TestingTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Testing123Testing.xcodeproj",
+        "identifier" : "67F2D46B24A531A500157F9F",
+        "name" : "Testing123TestingUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

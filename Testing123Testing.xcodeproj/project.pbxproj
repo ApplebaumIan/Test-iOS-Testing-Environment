@@ -61,6 +61,7 @@
 		67F2D47024A531A500157F9F /* Testing123TestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testing123TestingUITests.swift; sourceTree = "<group>"; };
 		67F2D47224A531A500157F9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		67F2D47E24A543DD00157F9F /* MonkeyTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonkeyTest.swift; sourceTree = "<group>"; };
+		67F2D48024A5746100157F9F /* MainTests.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = MainTests.xctestplan; sourceTree = "<group>"; };
 		B4BE251427A12AFD58BDED5A /* Pods-Testing123Testing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Testing123Testing.debug.xcconfig"; path = "Target Support Files/Pods-Testing123Testing/Pods-Testing123Testing.debug.xcconfig"; sourceTree = "<group>"; };
 		EE606B6AF36419E2A2679E93 /* Pods_Testing123Testing.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Testing123Testing.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -150,6 +151,7 @@
 			isa = PBXGroup;
 			children = (
 				67F2D47024A531A500157F9F /* Testing123TestingUITests.swift */,
+				67F2D48024A5746100157F9F /* MainTests.xctestplan */,
 				67F2D47E24A543DD00157F9F /* MonkeyTest.swift */,
 				67F2D47224A531A500157F9F /* Info.plist */,
 			);
